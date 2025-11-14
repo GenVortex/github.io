@@ -26,7 +26,7 @@ La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 a
 
 Le 11 mai 2014 les républiques du Dombass, russophones et russophiles, créent leur propre référendum et suite aux résultats proclament leur autonomie. 
 
-Kiev refuse les résultats de ces référendums et va bombarder le Dombass régulièrement, les russophones sont considérés comme des moins que rien. Voici le discours du nouveau président de l'Ukraine, mis en place en 2014 dès que l'intérim a été fini :
+Kiev refuse les résultats de ces référendums et va bombarder le Dombass régulièrement, les russophones sont considérés comme des moins que rien. Voici le discours du nouveau président de l'Ukraine, Petro Porochenko, en place depuis 2014 dès que l'intérim a été fini :
 [https://youtu.be/tkBv2fvzAf4?si=xWYfs7xDxMXBWaS4](https://youtu.be/tkBv2fvzAf4?si=xWYfs7xDxMXBWaS4)
 
 Un premier accord est mis en place à Minsk pour essayer de calmer la situation et trouver une solution de cessez-le-feu. Il ne tiendra pas. Un deuxième accord Minsk 2 est mis en place le 11 février 2015. Il se tient en présence de Vladimir Poutine, président russe, Petro Porochenko, président ukrainien, Angela Merkel, chancelière allemande, François Hollande, président français, Alexandre Zakhartchenko, représentant de la république populaire de Donetsk, et d’Igor Plotnitski, représentant de la république populaire de Lougansk. 
