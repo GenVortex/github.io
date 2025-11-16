@@ -20,7 +20,7 @@ Pour info les langues régionales étaient pourtant inscrites dans la constituti
 "Les langues nationales peuvent être employées parallèlement à la langue ukrainienne dans les activités de l'État, le Parti, les organismes publics, les entreprises, les institutions et les organisations placés dans les lieux où résident la majorité des citoyens des autres nationalités (villes, régions, villages et conseils d'établissement, etc.)."
 
 <a href="https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm" target="_blank" rel="noopener noreferrer">https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm</a>  
-<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-1-langues-1989.html" target="_blank" rel="noopener noreferrer" style="color:#00e;font-size:0.95em;">(copie locale ici)</a></span>
+<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-1-langues-1989.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale ici)</a></span>
 
 Je dis bien MENACE, car les députés se sont ravisés et ont annulé l'abrogation ! 
 Mais toutes les populations minoritaires ont bien compris que le pouvoir central de Kiev ne voulait plus respecter les minorités !
@@ -44,14 +44,14 @@ Le 11 mai 2014 les républiques du Dombass, russophones et russophiles, créent 
 Kiev refuse les résultats de ces référendums et va bombarder le Dombass régulièrement, les russophones sont considérés comme des moins que rien. Voici le discours du nouveau président de l'Ukraine, Petro Porochenko, en poste depuis 2014 dès que l'intérim a été fini :
 
 <a href="https://youtu.be/tkBv2fvzAf4?si=6GN1ISUWx-HbvyS7" target="_blank" rel="noopener noreferrer">https://youtu.be/tkBv2fvzAf4?si=6GN1ISUWx-HbvyS7</a>  
-<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-4-porochenko-discours.mp4" target="_blank" rel="noopener noreferrer" style="color:#00e;font-size:0.95em;">(copie locale ici)</a></span>
+<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-4-porochenko-discours.mp4" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale ici)</a></span>
 
 Un premier accord est mis en place à Minsk pour essayer de calmer la situation et trouver une solution de cessez-le-feu. Il ne tiendra pas. Un deuxième accord Minsk 2 est mis en place le 11 février 2015. Il se tient en présence de Vladimir Poutine, président russe, Petro Porochenko, président ukrainien, Angela Merkel, chancelière allemande, François Hollande, président français, Alexandre Zakhartchenko, représentant de la république populaire de Donetsk, et d’Igor Plotnitski, représentant de la république populaire de Lougansk. 
 
 La France et l'Allemagne devaient être garantes de l'accord mais on sait maintenant, parce qu'ils l'ont dit publiquement, que leur seul but était de laisser l'Ukraine s'armer afin d'obliger par la force le Dombass à renoncer à son autonomie.
 
 <a href="https://fr.wikipedia.org/wiki/Minsk_II" target="_blank" rel="noopener noreferrer">https://fr.wikipedia.org/wiki/Minsk_II</a>  
-<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-2-minsk-ii.html" target="_blank" rel="noopener noreferrer" style="color:#00e;font-size:0.95em;">(copie locale ici)</a></span>
+<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-2-minsk-ii.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale ici)</a></span>
 
 Ces accords ne sont donc pas respectés, et la population ukrainienne vit donc une guerre contre le Dombass, où le gouvernement central de Kiev, avec l’aide de troupes nationalistes et parfois pro-nazis (Azof) s’oppose à des populations qui ont voté pour leur indépendance. Cette guerre aura fait 14.000 morts.
 
@@ -62,7 +62,7 @@ En espérant sortir de ce chaos, la population ukrainienne décide de ne plus vo
 Il est élu le 21 avril 2019, et quatre jours plus tard la Rada (assemblée) adopte finalement la nouvelle loi supprimant le russe comme langue officielle. Les russophones avaient bien raison de se révolter puisque maintenant SEULE la langue ukrainienne est désormais autorisée à être employée tant par les autorités nationales et locales, que par les entreprises, les institutions et les divers organismes; ainsi, la maîtrise de l’ukrainien est exigée par les fonctionnaires, les élus, les magistrats, les enseignants ainsi que la majorité des médias !
 
 <a href="https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm" target="_blank" rel="noopener noreferrer">https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm</a>  
-<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-3-loi-langues-2019.html" target="_blank" rel="noopener noreferrer" style="color:#00e;font-size:0.95em;">(copie locale ici)</a></span>
+<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-3-loi-langues-2019.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale ici)</a></span>
 
 Et au lieu d’arrêter la guerre au Dombass, il la continue !
 
