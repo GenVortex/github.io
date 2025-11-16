@@ -27,7 +27,7 @@ Avant les événements de Maïdan (fin 2013 – début 2014), l’opinion publiq
 
 ---
 
-# Comprendre le vote pour l'autodétermination dans le Donbass et sources fiables
+# Comprendre le vote pour l'autodétermination dans le Donbass après Maïdan et sources fiables
 
 Lorsque les habitants du Donbass ont voté **« oui » à l’autodétermination** en mai 2014, leur compréhension du terme était très majoritairement **centrée sur l’autonomie locale**, et non sur l’indépendance totale. Voici un résumé des principales motivations :
 
