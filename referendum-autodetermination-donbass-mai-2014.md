@@ -1,3 +1,8 @@
+---
+title: "Référendum d'autodétermination Donbass mai 2014"
+layout: default
+permalink: /referendum-autodetermination-donbass-mai-2014/
+---
 # Contexte et sondages sur l’opinion du Donbass avant Maïdan
 
 Avant les événements de Maïdan (fin 2013 – début 2014), l’opinion publique dans le Donbass était déjà **marquée par un attachement à l’Ukraine mais avec un fort désir d’autonomie régionale et de protection de la langue russe**. Les sondages montrent :  

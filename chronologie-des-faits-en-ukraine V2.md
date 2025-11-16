@@ -1,7 +1,7 @@
 ---
-title: "Chronologie des faits en Ukraine"
+title: "Chronologie des faits en Ukraine V2"
 layout: default
-permalink: /chronologie-des-faits-en-ukraine/
+permalink: /chronologie-des-faits-en-ukraine-V2/
 ---
 On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique explose et que des milliardaires, comme des requins après un naufrage, viennent s'emparer de toutes les richesses de l'état et que des mafias se mettent en place. Il n’y a plus de police, plus de professeurs, plus de retraites, plus rien, le chaos total.
 
