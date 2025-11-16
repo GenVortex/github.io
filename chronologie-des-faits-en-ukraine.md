@@ -12,6 +12,10 @@ En novembre 2013 le président de la Commission européenne, qui était à l'ép
 Les 21 et 22 février 2014 ce mouvement se rassemble encore sur la place Maïdan à Kiev.
 A ce moment-là la secrétaire d'état américaine Nuland vient encourager la population pour essayer d'obtenir le renversement du président Yanoukovytch. On suspecte alors très fortement la CIA d'avoir posté des tireurs et d'avoir tiré dans la foule pour semer la terreur et accélérer le processus en faisant croire que c'était la police ou l'armée qui tirait sur la foule. Cela a fonctionné et a déclenché le processus de renversement espéré par les américains.
 
+Nuland a même discuté du choix des ministres ukrainiens : "Bien. Je ne pense pas que Klitsch devrait entrer au gouvernement. Je ne pense pas que ce soit nécessaire, je ne pense pas que ce soit une bonne idée." 
+<a href="https://www.bbc.com/news/world-europe-26079957" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-europe-26079957</a>  
+<span style="display:block;margin-top:0.2em;"><a href="/archives/ref-5-Nuland-Maidan.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale traduite ici)</a></span>
+
 Un président élu par le peuple ukrainien a donc été renversé par la seule population de Kiev avec l'aide de la CIA. 
 
 Le 23 février 2014 le président de la Douma assure l'intérim du président et menace de supprimer la langue russe comme langue officielle en abrogeant la loi Kivalov-Kolesnichenko. Cela concerne non seulement la langue russe mais toutes les langues minoritaires, dont le hongrois, ce qui explique que Victor Orban a refusé de soutenir Kiev, et ce qui explique aussi la position récente de la Roumanie, dont la population est aussi présente en Ukraine.
