@@ -1,5 +1,8 @@
 ---
 title: Températures de la Terre selon le CO₂
+layout: page
+---
+title: Températures de la Terre selon le CO₂
 ---
 
 # Températures de la Terre selon le CO₂

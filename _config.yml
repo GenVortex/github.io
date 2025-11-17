@@ -1,19 +1,16 @@
 title: Genvortex
-description: Sciences, climat, physique
+description: Sciences & Climat
 
 url: "https://genvortex.github.io"
 baseurl: ""
 
-theme: jekyll-theme-chirpy
-math: mathjax
-
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
   input: GFM
+  math_engine: mathjax  # ← active le parsing LaTeX
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: page
+      layout: page  # ← utilise notre nouveau layout
