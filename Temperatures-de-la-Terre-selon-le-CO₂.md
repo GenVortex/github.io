@@ -1,11 +1,8 @@
 ---
-title: "Températures de la Terre selon le CO₂"
-author: "À personnaliser"
-date: "31 octobre 2025"
-geometry: margin=1in
-fontsize: 11pt
+title: "Temperatures-de-la-Terre-selon-le-CO₂"
+layout: default
+permalink: /Temperatures-de-la-Terre-selon-le-CO₂/
 ---
-
 # Températures de la Terre selon le CO₂
 
 ---
