@@ -1,3 +1,28 @@
-baseurl: ""
+title: Genvortex – Sciences & Climat
+description: >-
+  Bilan radiatif, températures terrestres, CO₂, MODTRAN, GIEC…
+
+# User Site → pas de sous-dossier
 url: "https://genvortex.github.io"
-title: "GenVortex"
+baseurl: ""               # ← vide, c’est la différence importante !
+
+# Thème + maths (c’est ça qui rend enfin tes formules LaTeX)
+theme: jekyll-theme-chirpy
+math: mathjax             # ← active MathJax sur toutes les pages
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Tes fichiers .md à la racine seront bien affichés
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
