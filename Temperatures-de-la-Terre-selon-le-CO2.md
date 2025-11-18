@@ -4,38 +4,19 @@ layout: default
 permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js">
+<!-- Chargement de MathJax -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']]
+    },
+    svg: { fontCache: 'global' }
+  };
 </script>
 
-<script>
-// Configuration MathJax pour un rendu parfait sur GitHub Pages
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    packages: {'[+]': ['ams', 'boldsymbol']}
-  },
-  chtml: {
-    scale: 1.0,
-    displayAlign: 'center',
-    matchFontHeight: false
-  },
-  svg: {
-    fontCache: 'global'
-  },
-  startup: {
-    ready: () => {
-      MathJax.startup.defaultReady();
-      MathJax.startup.promise.then(() => {
-        console.log('MathJax est prêt !');
-      });
-    }
-  }
-};
-</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
 
 ---
 
