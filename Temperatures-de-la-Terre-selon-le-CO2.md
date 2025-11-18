@@ -3,7 +3,7 @@ title: "Températures de la Terre selon le CO2"
 layout: default
 permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
-
+<!--
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js">
 </script>
@@ -38,7 +38,7 @@ window.MathJax = {
 </script>
 
 <!-- Alternative plus légère si tu préfères KaTeX (très rapide, mais moins complet que MathJax) -->
-<!--
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"
@@ -49,7 +49,7 @@ window.MathJax = {
             {left: '\\[', right: '\\]', display: true}
         ]});">
 </script>
--->
+
 ---
 
 # Températures de la Terre selon le CO₂
