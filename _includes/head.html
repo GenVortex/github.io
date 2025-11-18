@@ -2,29 +2,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+  
+  <!-- KaTeX CSS – c’est tout ce qu’il faut ! -->
+  {% katex_css %}
 
-  <!-- MathJax v3 : cible balises kramdown + délimiteurs standards -->
-  <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']],
-        tags: 'ams',  // Pour \label et \ref si besoin
-        packages: {'[+]': ['ams', 'amscd', 'bbox', 'color', 'noerrors']}
-      },
-      options: {
-        ignoreHtmlClass: 'no-mathjax',  // Ignore si tu ajoutes class="no-mathjax"
-        renderActions: {
-          addMenu: []  // Désactive menu contextuel
-        }
-      },
-      loader: {
-        load: ['[tex]/ams', '[tex]/amscd']  // Extensions LaTeX courantes
-      },
-      startup: {
-        typeset: false  // Typeset manuel si besoin ; false pour auto
-      }
-    };
-  </script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <!-- Feeds & SEO (optionnel mais propre) -->
+  {% feed_meta %}
+  {% seo %}
 </head>

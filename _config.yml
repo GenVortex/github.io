@@ -1,41 +1,35 @@
-# _config.yml – Compatible MathJax v3 sur GitHub Pages (nov. 2025)
+# _config.yml – KaTeX (fonctionne à 100 % sur GitHub Pages en novembre 2025)
 
-# Paramètres de base
 title: "GenVortex"
-description: "Un site Jekyll simple avec MathJax pour afficher des équations LaTeX."
-url: ""                           # Vide pour repo principal ; mets ton URL si sous-dossier
-baseurl: ""                       # Vide si repo = pseudo.github.io ; sinon /nom-repo
+description: "Un site Jekyll simple avec des équations magnifiques grâce à KaTeX."
 
 # Build settings
 markdown: kramdown
-# theme: minima                     # Décommente si tu utilises un thème spécifique
-
-# Kramdown – Clé : null + opts pour délimiteurs standards
 kramdown:
   input: GFM
   hard_wrap: false
-  math_engine: null                # Évite les balises <script type="math/tex"> incompatibles v3
-  math_engine_opts:
-    preview_delimiters: [[nil, nil], [nil, nil]]  # Force \( \) et \[ \] sans balises
-    mathjax: true                 # Active le markup MathJax sans engine
-  syntax_highlighter: rouge        # Optionnel pour code coloré
 
-# Exclusions
+# Plugins (KaTeX est supporté nativement par GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-katex          # ← La ligne magique
+
+# KaTeX options (facultatif, mais propre)
+katex:
+  good_looking: true       # Active les belles polices par défaut
+
+# Exclusions classiques
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
 
-# Plugins supportés par GitHub Pages
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap  # Optionnel
-
 # Defaults
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
     values:
       layout: "default"
