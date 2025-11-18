@@ -3,11 +3,28 @@ title: "Températures de la Terre selon le CO2"
 layout: default
 permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
+---
+title: "Test Scripts"
+---
 
----
-layout: default
-title: "Page avec équations"
----
+<!-- TEST 1 : Vérifier si les scripts sont exécutés -->
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    console.log("✔ TEST SCRIPT : exécuté");
+    const el = document.createElement("div");
+    el.style.padding = "10px";
+    el.style.background = "#def";
+    el.style.border = "1px solid #69f";
+    el.textContent = "✔ Les scripts fonctionnent.";
+    document.body.prepend(el);
+  });
+</script>
+
+<!-- TEST 2 : Vérifier si HTML est filtré -->
+<div style="padding: 10px; background: #fed; border: 1px solid #f96;">
+  ✔ Le HTML n'est PAS filtré.
+</div>
+
 
 <!-- ===================== -->
 <!--  Configuration MathJax -->
