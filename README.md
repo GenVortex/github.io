@@ -2,7 +2,7 @@
 markdown: kramdown
 ---
 
-## Table des matières
+## Table des matièress
 
 - [chronologie-des-faits-en-ukraine.md](https://genvortex.github.io/chronologie-des-faits-en-ukraine/){:target="_blank" rel="noopener noreferrer"}
 - [referendum-autodetermination-donbass-mai-2014-beta.md](https://genvortex.github.io/referendum-autodetermination-donbass-mai-2014/){:target="_blank" rel="noopener noreferrer"}
