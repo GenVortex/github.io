@@ -1,7 +1,3 @@
----
-markdown: kramdown
----
-
 ## Table des matières
 
 - [chronologie-des-faits-en-ukraine.md](https://genvortex.github.io/chronologie-des-faits-en-ukraine/){:target="_blank" rel="noopener noreferrer"}
