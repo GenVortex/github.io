@@ -1,40 +1,41 @@
-# _config.yml – version qui marche vraiment en 2025
+# _config.yml – Compatible MathJax v3 sur GitHub Pages (nov. 2025)
 
 # Paramètres de base
 title: "GenVortex"
 description: "Un site Jekyll simple avec MathJax pour afficher des équations LaTeX."
-url: ""                           # laisse vide si tu es en https://tonpseudo.github.io
-baseurl: ""                       # laisse vide si ton repo s'appelle tonpseudo.github.io
-                                  # mets /nom-du-repo si c'est un projet Pages classique
+url: ""                           # Vide pour repo principal ; mets ton URL si sous-dossier
+baseurl: ""                       # Vide si repo = pseudo.github.io ; sinon /nom-repo
 
 # Build settings
 markdown: kramdown
-# theme: minima                   # décommente si tu utilises un thème Jekyll
+# theme: minima                     # Décommente si tu utilises un thème spécifique
 
-# Kramdown – on désactive complètement math_engine (c’est la clé !)
+# Kramdown – Clé : null + opts pour délimiteurs standards
 kramdown:
-  input: GFM                      # GitHub Flavored Markdown
+  input: GFM
   hard_wrap: false
-  math_engine: null               # ← LIGNE LA PLUS IMPORTANTE
-  # syntax_highlighter: rouge       # si tu utilises du code coloré
+  math_engine: null                # Évite les balises <script type="math/tex"> incompatibles v3
+  math_engine_opts:
+    preview_delimiters: [[nil, nil], [nil, nil]]  # Force \( \) et \[ \] sans balises
+    mathjax: true                 # Active le markup MathJax sans engine
+  syntax_highlighter: rouge        # Optionnel pour code coloré
 
-# Exclusions classiques
+# Exclusions
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
 
-# Plugins (GitHub Pages en supporte un certain nombre nativement)
+# Plugins supportés par GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  # - jekyll-sitemap              # décommente si tu veux
+  - jekyll-sitemap  # Optionnel
 
-# Defaults (facultatif mais propre)
+# Defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
