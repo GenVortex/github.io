@@ -2,7 +2,7 @@
 title: "Accueil"
 layout: math
 ---
-Test Jekyll : {{ page.title }}
+Tests Jekyll : {{ page.title }}
 # 🧭 Table des matières
 
 <ul>
