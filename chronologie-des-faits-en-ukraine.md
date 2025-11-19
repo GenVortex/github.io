@@ -75,4 +75,4 @@ Et au lieu d’arrêter la guerre au Donbass, il la continue !
 Ainsi pendant 8 ans, de 2014 à 2022, Poutine voit à ses frontières des populations russophones et russophiles, voire d’origine russes privées de leur langue maternelle se faire bombarder par Kiev sans que personne n'intervienne ! Il prévient, il amasse des troupes bien visibles, mais personne n'en tient compte, et donc en février 2022 il entre en Ukraine pour régler le problème, et celui de la présence de l'Otan par la même occasion.
 
 Moins d'un mois après le début de cette « Opération spéciale », un accord est quasiment trouvé en Turquie entre Poutine et Zelensky, **sans demande d’annexion du Donbass à la Russie.** Mais Boris Johnson intervient et fait sauter cet accord.
-La guerre continue donc depuis.
+La guerre continue donc depuis....
