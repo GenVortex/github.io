@@ -70,15 +70,4 @@ Mais Boris Johnson intervient et fait sauter cet accord.
 
 La guerre continue donc depuis.
 
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  document.querySelectorAll("a[href]").forEach(function(a) {
-    // ouvre dans un nouvel onglet tous les liens sauf les ancres internes (#...)
-    if (!a.getAttribute("href").startsWith("#")) {
-      a.setAttribute("target", "_blank");
-      a.setAttribute("rel", "noopener noreferrer");
-    }
-  });
-});
-</script>
+<script src="{{ site.baseurl }}/assets/js/newtab.js"></script>
