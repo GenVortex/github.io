@@ -68,4 +68,4 @@ Moins d'un mois après le début de cette « Opération spéciale », un accord 
 
 Mais Boris Johnson intervient et fait sauter cet accord.
 
-La guerre continue donc depuis.
+La guerre continue donc depuis...
