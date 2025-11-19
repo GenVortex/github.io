@@ -1,6 +1,6 @@
 ---
 title: "Chronologie des faits en Ukraine"
-layout: default
+layout: math
 permalink: /chronologie-des-faits-en-ukraine/
 ---
 
