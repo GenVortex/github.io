@@ -19,23 +19,19 @@
       margin-bottom: 30px;
     }
     ul {
-      list-style: none;
-      padding-left: 0;
-      margin-left: 40px;           /* ← décalage vers la droite */
+      padding-left: 25px;     /* crée le retrait naturel avec les puces */
+      margin-left: 40px;      /* décalage supplémentaire que tu voulais */
     }
     li {
-      margin: 16px 0;
-      font-weight: bold;           /* ← en gras */
-      color: #0066cc;              /* ← bleu franc */
+      margin: 14px 0;
+      color: #0066cc;         /* bleu franc */
+      font-weight: normal;    /* pas gras du tout */
     }
     a {
       color: inherit;
-      text-decoration: none;
+      text-decoration: underline;   /* soulignement permanent */
     }
-    a:hover {
-      text-decoration: underline;
-    }
-    /* mode sombre automatique si tu veux le garder */
+    /* mode sombre (facultatif, tu peux supprimer si tu n’en veux pas) */
     @media (prefers-color-scheme: dark) {
       body { background: #121212; color: #e0e0e0; }
       h2 { color: #bbdefb; }
