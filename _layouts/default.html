@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  {% include head.html %}
+  {% if page.math %}
+    {% include mathjax.html %}
+  {% endif %}
+</head>
+<body>
+  {% include header.html %}
+  <main role="main">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>
